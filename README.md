@@ -22,10 +22,6 @@ Thanks for checking out my profile! I'm an economist with passion for the progra
 
 <br />
 <br />
-<details>
 
-
-
-</details>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gmineo.gmineo)
