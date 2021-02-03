@@ -23,9 +23,7 @@ Thanks for checking out my profile! I'm an economist with passion for the progra
 <br />
 <br />
 <details>
-<summary>
-  Projects I'm Currently Working On!
-</summary>
+
 
 
 </details>
