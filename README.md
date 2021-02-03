@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 I am Gabriele Mineo
+  <br>
+<a href="https://www.linkedin.com/in/gabrielemineo/" target="_blank">
+  <img align="center" alt="Mineo @LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</h1>
 
-<!--
-**gmineo/gmineo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Thanks for checking out my profile! I'm an economist with passion for the programming world and machine learning.
+</p>
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div><p>My GitHub Profile Overview:</p></div>
+
+<hr>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gmineo&count_private=true&show_icons=true" alt="GitHub Stats"/>
+<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gmineo&show_icons=true&layout=compact" alt="Most Used Languages"> -->
+</p>
+
+<br />
+<br />
+<details>
+<summary>
+  Projects I'm Currently Working On!
+</summary>
+
+
+</details>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gmineo.gmineo)
