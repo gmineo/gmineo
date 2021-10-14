@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-Thanks for checking out my profile! I'm an economist with passion for the programming world and machine learning.
+Thanks for checking out my profile! I'm an economist with huge curiosity and passion for the programming world and machine learning.
 </p>
 
 <br>
